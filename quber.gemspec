@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Rails adapter for Qube}
   spec.description   = %q{Rails adapter for Qube}
-  spec.homepage      = "https://github.com/roleus/quber"
+  spec.homepage      = "https://github.com/tnt-qube/quber"
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new(">= 2.7")
 
