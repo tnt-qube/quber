@@ -1,3 +1,4 @@
+require 'quber/version'
 require 'quber/http'
 require 'quber/client'
 require 'quber/rack'
